@@ -56,3 +56,7 @@
 0.0.0.0 f4.market.xiaomi.com
 0.0.0.0 f1.market.xiaomi.com
 0.0.0.0 f5.market.xiaomi.com
+0.0.0.0 f2.market.xiaomi.com
+0.0.0.0 file.market.xiaomi.com
+0.0.0.0 market.mi-img.com
+0.0.0.0 f5.market.mi-img.com
