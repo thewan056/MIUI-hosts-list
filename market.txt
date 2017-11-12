@@ -1,0 +1,22 @@
+127.0.0.1 localhost
+::1 localhost
+
+0.0.0.0 app.market.xiaomi.com
+0.0.0.0 market.xiaomi.com
+0.0.0.0 market.mi-img.com
+0.0.0.0 file.market.xiaomi.com
+0.0.0.0 t1.market.xiaomi.com
+0.0.0.0 t2.market.xiaomi.com
+0.0.0.0 t3.market.xiaomi.com
+0.0.0.0 t4.market.xiaomi.com
+0.0.0.0 t5.market.xiaomi.com
+0.0.0.0 f1.market.xiaomi.com
+0.0.0.0 f2.market.xiaomi.com
+0.0.0.0 f3.market.xiaomi.com
+0.0.0.0 f4.market.xiaomi.com
+0.0.0.0 f5.market.xiaomi.com
+0.0.0.0 f1.market.mi-img.com
+0.0.0.0 f2.market.mi-img.com
+0.0.0.0 f3.market.mi-img.com
+0.0.0.0 f4.market.mi-img.com
+0.0.0.0 f5.market.mi-img.com
