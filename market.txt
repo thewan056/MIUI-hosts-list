@@ -15,6 +15,10 @@
 0.0.0.0 f3.market.xiaomi.com
 0.0.0.0 f4.market.xiaomi.com
 0.0.0.0 f5.market.xiaomi.com
+0.0.0.0 f6.market.xiaomi.com
+0.0.0.0 f7.market.xiaomi.com
+0.0.0.0 f8.market.xiaomi.com
+0.0.0.0 f9.market.xiaomi.com
 0.0.0.0 a.market.xiaomi.com
 0.0.0.0 t1.a.market.xiaomi.com
 0.0.0.0 t2.a.market.xiaomi.com
