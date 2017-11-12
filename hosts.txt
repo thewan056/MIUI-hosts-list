@@ -52,3 +52,5 @@
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 downapp.baidu.com
 0.0.0.0 ms.vipstatic.com
+0.0.0.0 t1.market.xiaomi.com
+0.0.0.0 f4.market.xiaomi.com
