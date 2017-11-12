@@ -24,7 +24,6 @@
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 account.xiaomi.com
 0.0.0.0 chinaunicom.com
-0.0.0.0 app.market.xiaomi.com
 0.0.0.0 42.62.94.127
 0.0.0.0 xiaomi.net
 0.0.0.0 api.account.xiaomi.com
@@ -35,7 +34,6 @@
 0.0.0.0 120.134.33.89
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 223.202.68.93
-0.0.0.0 market.xiaomi.com
 0.0.0.0 114.54.23.8
 0.0.0.0 miui.net
 0.0.0.0 114.54.23.5
@@ -44,7 +42,6 @@
 0.0.0.0 update.miui.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 r.browser.miui.com
-0.0.0.0 f4.market.mi-img.com
 0.0.0.0 tb1.bdstatic.com
 0.0.0.0 weatherapi.market.xiaomi.com
 0.0.0.0 test.ad.xiaomi.com
@@ -52,11 +49,3 @@
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 downapp.baidu.com
 0.0.0.0 ms.vipstatic.com
-0.0.0.0 t1.market.xiaomi.com
-0.0.0.0 f4.market.xiaomi.com
-0.0.0.0 f1.market.xiaomi.com
-0.0.0.0 f5.market.xiaomi.com
-0.0.0.0 f2.market.xiaomi.com
-0.0.0.0 file.market.xiaomi.com
-0.0.0.0 market.mi-img.com
-0.0.0.0 f5.market.mi-img.com
