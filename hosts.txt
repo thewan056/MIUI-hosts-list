@@ -55,3 +55,4 @@
 0.0.0.0 t1.market.xiaomi.com
 0.0.0.0 f4.market.xiaomi.com
 0.0.0.0 f1.market.xiaomi.com
+0.0.0.0 f5.market.xiaomi.com
